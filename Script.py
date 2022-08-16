@@ -106,4 +106,4 @@ Added By - {}</b>
 ID - <code>{}</code>
 Name - {}</b>
 """
-M_NT_FND = """<b>⭕️This Movie Is Not In Database \n\n⭕️Request Admin For Uploading</b>"""
+M_NT_FND = """<b>⭕️This Movie Is Not Found. \n\n⭕️Request For Uploading👇</b>"""

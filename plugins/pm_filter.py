@@ -143,7 +143,7 @@ async def advantage_spoll_choker(bot, query):
                 reply_markup=InlineKeyboardMarkup(
                                        [[
                                          InlineKeyboardButton('💢 𝖱ᴇǫᴜᴇ𝗌 ᴛᴏ Aᴅᴍɪɴ 💢 ', url="https://t.me/MaxAdminsBot")
-
+                                       
                                        ]]
                 ),
                 parse_mode='html'

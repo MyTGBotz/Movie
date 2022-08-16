@@ -106,4 +106,4 @@ Added By - {}</b>
 ID - <code>{}</code>
 Name - {}</b>
 """
-M_NT_FND = """<b>This Movie Is Not Found \n\nRequest To Admin</b>
+M_NT_FND = """<b>This Movie Is Not Found \n\nRequest To Admin</b>"""

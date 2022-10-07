@@ -5,7 +5,7 @@ class script(object):
     HELP_TXT = """<b>ʜᴇʏ {}
 ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ꜰᴏʀ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ</b>."""
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/PenMovieHD>𝐏єη 𝐌๏νιє 𝐇ↁ</a>
+✯ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/PenMovieHD>𝐓αȥ 𝐇ↁ</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 𝟹
 ✯ ᴅᴀᴛᴀ ʙᴀꜱᴇ: ᴍᴏɴɢᴏ ᴅʙ
